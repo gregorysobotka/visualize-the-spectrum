@@ -1,0 +1,19 @@
+{
+  "name": "visualize-the-spectrum",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gregorysobotka/visualize-the-spectrum.git"
+  },
+  "author": "gregory sobotka",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gregorysobotka/visualize-the-spectrum/issues"
+  },
+  "homepage": "https://github.com/gregorysobotka/visualize-the-spectrum#readme"
+}
